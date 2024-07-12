@@ -1,3 +1,6 @@
+# trace-next
+- This is a simple tree file generator from trace file Next.js.
+
 ## How to run
 
 - Install dependencies.
